@@ -55,7 +55,7 @@ Documenting my learning journey and labs with explanations and methodology
 
 ###  Projects
 Hands-on mini projects to apply what I learn  
-📁 `/projects/`
+📁 https://github.com/luktwel/home-lab-projects
 
 Examples:
 - Port scanning with Nmap  
