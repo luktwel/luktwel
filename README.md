@@ -49,7 +49,7 @@ I am currently building hands-on experience through practical labs and real-worl
 
 ###  TryHackMe Write-ups
 Documenting my learning journey and labs with explanations and methodology  
-📁 `/tryhackme/`
+📁 https://github.com/luktwel/tryhackme-labs
 
 ---
 
@@ -60,13 +60,9 @@ Hands-on mini projects to apply what I learn
 Examples:
 - Port scanning with Nmap  
 - Basic enumeration techniques
--   
+- exploits
+- packet analyzing
 
----
-
-###  Notes
-Structured notes and summaries of key concepts  
-📁 `/notes/`
 
 ---
 
