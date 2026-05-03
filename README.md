@@ -23,9 +23,10 @@ Practicing daily — focusing on penetration testing and blue team fundamentals.
 
 ##  What I'm Currently Doing
 
-- 🟩 Practicing daily on **TryHackMe**
-- 📜 Completing the **Google Cybersecurity Certificate** (Coursera)
-- 🖥️ Starting a **System Administration** course soon
+-  Practicing daily on **TryHackMe**
+-  Completing the **Google Cybersecurity Certificate** (Coursera)
+-  Starting a **System Administration** course soon
+-  practicing hands on in vm
 
 ---
 
