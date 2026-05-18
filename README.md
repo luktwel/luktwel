@@ -25,7 +25,7 @@ Practicing daily — focusing on penetration testing and blue team fundamentals.
 
 -  Practicing daily on **TryHackMe**
 -  Completing the **Google Cybersecurity Certificate** (Coursera)
--  Starting a **System Administration** course soon
+-  currently enrolled in a **System Administration** course
 -  Running a home lab with **Kali Linux** and **Metasploitable2** 
   to practice offensive and defensive security techniques
 
