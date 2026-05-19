@@ -36,7 +36,7 @@ Practicing daily — focusing on penetration testing and blue team fundamentals.
 | Category | Tools / Knowledge |
 |---|---|
 | Networking | TCP/IP, DNS, HTTP/HTTPS, scanning & enumeration |
-| Security Tools | Nmap, Wireshark, Burp Suite, SIEM (basics) |
+| Security Tools | Nmap, Wireshark, splunk, SIEM (basics) |
 | Systems | Linux fundamentals, Windows basics |
 | Other | OSINT, basic web security |
 
