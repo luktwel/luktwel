@@ -13,7 +13,7 @@ daily practice.
 
 ---
 
-## 🏆 TryHackMe
+##  TryHackMe
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/pandapandapanda.png)](https://tryhackme.com/p/pandapandapanda)
 
@@ -42,7 +42,7 @@ Practicing daily — focusing on penetration testing and blue team fundamentals.
 
 ---
 
-## 📁 Portfolio
+##  Portfolio
 
 ###  TryHackMe Write-ups
 Documenting my learning journey with methodology and explanations.
